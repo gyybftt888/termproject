@@ -1,0 +1,27 @@
+
+<html>
+<head>
+<title>Term Project</title>
+<style>
+body {
+  background-color: grey;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:500px;height:210px;"src="https://www.clocklink.com/html5embed.php?clock=048&timezone=GMT0800&color=blue&size=450&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=blue"></iframe>
+<hr size="3" align="center" noshade width="90%" color="0020af">
+<h1><marquee behavior="alternate">我是胡紘瑋</marquee></h1>
+<hr size="3" align="center" noshade width="90%" color="0020af">
+<p><div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">姓名:胡紘瑋 Wesley</div></p>
+<p><div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">性別:男生</div></p>
+<p><div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">學校:清大資工</div></p>
+<p><div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">星座:射手座</div></p>
+<p><div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">信箱:gyybftt888@yahoo.com.tw</div></p>
+<p><img src="pG76epT.gif"></p>
+<p>前往<a href="https://www.facebook.com/gyybftt888">我的臉書</a></p>
+<hr size="3" align="center" noshade width="90%" color="1000ff">
+</body>
+</html>
